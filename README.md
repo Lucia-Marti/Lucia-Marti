@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lucia-Marti
+👋 Hi, I’m @Lucia-Marti
 
-- 💞️ Estudiante Full-Stack Developer - Digital House
+💞️ Estudiante Full-Stack Developer - Digital House
 
-- 📫 luciamartichemes@gmail.com
+📫 luciamartichemes@gmail.com
 
 <!---
 Lucia-Marti/Lucia-Marti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
