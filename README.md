@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucia-Marti
 
-- 💞️ Estudiante Full-Stack en Digital House
+- 💞️ Estudiante Full-Stack Developer - Digital House
 
 - 📫 luciamartichemes@gmail.com
 
